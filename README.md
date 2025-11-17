@@ -2,132 +2,95 @@
   <a href="https://en.wikipedia.org/wiki/Web_development">
     <img alt="MERN STACK" src="https://img.shields.io/badge/mern-0A66C2?logo=mern-stack&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://aws.amazon.com/">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://azure.microsoft.com/">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/CI/CD">
-    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0A66C2?logo=gitlab&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.mongodb.com/">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <a href="https://expressjs.com/">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-<!--
-**abbasu2023/abbasu2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
-<h3 align="center">A MERN Stack Specialist from Pakistan</h3>
+<h3 align="center">A MERN Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaakbar2020&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shujaakbar2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasu2023&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abbasu2023" /> </p>
 
-
-
-- 🔭 I’m currently working as **DevOps Engineer with specilities in AWS and AZURE.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shujaakbar2020](https://github.com/shujaakbar2020)
-
-- 📝 I regularly write articles on [https://blog.shujaakbar.com/](https://blog.shujaakbar.com/)
-
-- 💬 Ask me about **DevOps, Cloud Automation and CICD**
-
-- 📫 How to reach me **shujaakbar2024@gmail.com**
-
-- 📄 Know about my experiences [https://shujaakbar.com/](https://shujaakbar.com/)
+- 🔭 I’m currently working on **full-stack web applications using MERN stack**.
+- 👨‍💻 All of my projects are available at [https://github.com/abbasu1](https://github.com/abbasu1)
+- 🌱 I’m currently learning **advanced React, Node.js optimization, and cloud integration**.
+- 💬 Ask me about **MERN stack development, REST APIs, JWT authentication, and Cloudinary integration**.
+- 📫 How to reach me: **abbasu2023@gmail.com**
+- ⚡ Fun fact: I enjoy **building responsive UIs and deploying full-stack apps**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shujaakbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shujaakbar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shuja-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shujaakbar" height="30" width="40" /></a>
-<a href="https://kaggle.com/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shujaakbar" height="30" width="40" /></a>
-<a href="https://fb.com/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shujaakbar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shujaakbar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shujaakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shujaakbar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-abbas-baloch/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/abbasmuhammad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100024629021198" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/abbasmuhammad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abbasmuhammad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
 </p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" 
-         alt="kubernetes" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+         alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
-         alt="docker" width="40" height="40"/> 
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+         alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://www.terraform.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" 
-         alt="terraform" width="40" height="40"/> 
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+         alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://www.ansible.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" 
-         alt="ansible" width="40" height="40"/> 
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+         alt="express" width="40" height="40"/> 
   </a>
-  <a href="https://helm.sh/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" 
-         alt="helm" width="40" height="40"/> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+         alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+         alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
          alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.jenkins.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" 
-         alt="jenkins" width="40" height="40"/> 
+  <a href="https://www.npmjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" 
+         alt="npm" width="40" height="40"/> 
   </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" 
-         alt="argocd" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" 
-         alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
-         alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://prometheus.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" 
-         alt="prometheus" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" 
-         alt="grafana" width="40" height="40"/> 
-  </a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" 
-         alt="elasticsearch" width="40" height="40"/> 
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" 
-         alt="jira" width="40" height="40"/> 
-  </a>
-  <a href="https://slack.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" 
-         alt="slack" width="40" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
+         alt="figma" width="40" height="40"/> 
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shujaakbar2020&show_icons=true&locale=en&layout=compact" alt="shujaakbar2020" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasu1&show_icons=true&locale=en&layout=compact" alt="shujaakbar2020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shujaakbar2020&show_icons=true&locale=en" alt="shujaakbar2020" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasu1&show_icons=true&locale=en" alt="shujaakbar2020" /></p>
