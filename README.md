@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/DevOps">
-    <img alt="DevOps" src="https://img.shields.io/badge/DevOps-0A66C2?logo=azuredevops&logoColor=white&style=for-the-badge"/>
+  <a href="https://en.wikipedia.org/wiki/Web_development">
+    <img alt="MERN STACK" src="https://img.shields.io/badge/mern-0A66C2?logo=mern-stack&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://aws.amazon.com/">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"/>
@@ -19,7 +19,7 @@
 ---
 
 <!--
-**shujaakbar2020/shujaakbar2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abbasu2023/abbasu2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shuja Akbar</h1>
-<h3 align="center">A DevOps Specialist from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
+<h3 align="center">A MERN Stack Specialist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shujaakbar2020&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shujaakbar2020" /> </p>
 
