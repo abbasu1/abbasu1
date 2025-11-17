@@ -69,10 +69,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
          alt="express" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
-         alt="tailwind" width="40" height="40"/> 
-  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+</a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
          alt="javascript" width="40" height="40"/> 
