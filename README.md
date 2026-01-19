@@ -1,89 +1,87 @@
+<h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
+<h3 align="center">A passionate Full Stack Developer specializing in the MERN Stack</h3>
+
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Web_development">
-    <img alt="MERN STACK" src="https://img.shields.io/badge/mern-0A66C2?logo=mern-stack&logoColor=white&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=abbasu1&label=Profile%20views&color=0e75b6&style=flat" alt="abbasu1" />
+</p>
+
+---
+
+### 🔭 I’m currently working on
+- **[Tech Blazex Website](https://github.com/abbasu1/tech-blazex-website)** - A modern, high-performance portfolio for tech agencies.
+- **Batch Skill Verification System** - Streamlining recruitment through automated skill assessments.
+
+### 🌱 I’m currently learning
+- Advanced **Node.js** design patterns and **Microservices**.
+- Exploring **Next.js 14** for optimized Server-Side Rendering.
+- Deep diving into **Cloud Native** development with AWS & Docker.
+
+### 💬 Ask me about
+- Building scalable RESTful APIs with **Node.js** & **Express**.
+- Optimizing **MongoDB** schemas for performance.
+- Creating dynamic, responsive UIs with **React** & **Tailwind CSS**.
+
+### 📫 How to reach me
+<p align="left">
+  <a href="mailto:abbasu2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
-  <a href="https://reactjs.org/">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/ma-abbas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.youtube.com/@techblazex-it">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.mongodb.com/">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.tiktok.com/@techblazex">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
-<h3 align="center">A MERN Stack Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasu2023&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abbasu2023" /> </p>
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on **full-stack web applications using MERN stack**.
-- 👨‍💻 All of my projects are available at [https://github.com/abbasu1](https://github.com/abbasu1)
-- 🌱 I’m currently learning **advanced React, Node.js optimization, and cloud integration**.
-- 💬 Ask me about **MERN stack development, REST APIs, JWT authentication, and Cloudinary integration**.
-- 📫 How to reach me: **abbasu2023@gmail.com**
-- ⚡ Fun fact: I enjoy **building responsive UIs and deploying full-stack apps**.
-
-<h3 align="left">Connect with me:</h3>
+#### 💻 Frontend
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-abbas-baloch/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/abbasmuhammad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100024629021198" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abbasmuhammad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/abbasmuhammad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+#### ⚙️ Backend & Database
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-         alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-         alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
-         alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-         alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-</a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-         alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" 
-         alt="npm" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
-         alt="figma"
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
+
+#### 🔧 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbasu1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasu1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasu1&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- 
+Note: Replace [your-github-username], [Your Name], [your-email], [your-linkedin], and [your-twitter] 
+with your actual details to see the magic! 
+-->
