@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbasu1&theme=radical&v=1.0" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abbasu1&theme=radical&v=1.1" alt="GitHub Streak" />
 </p>
 
 <!--
